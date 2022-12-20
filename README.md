@@ -1,6 +1,6 @@
 # Firefox 
 
-## This my personalized userChrome.css and betterfox json file.
+## This are my personalized userChrome.css and betterfox json file.
 
 These are my personalized userChome.css and betterfox json file. The userChrome file is basically oneliner from MrOtherGuy/firefox-csshacks with some edits and the user.js file is from Betterfox.
 
